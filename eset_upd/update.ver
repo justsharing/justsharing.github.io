@@ -1,0 +1,1364 @@
+[W10UPGRADE0]
+version = 1031 (20190528)
+versionid = 1031
+build = 1032
+type = w10upgrade
+category = engine
+level = 0
+base = 268435456
+date = 28.05.2019
+platform = x86
+group = w10upgrade
+buildregname = "W10UpgradeBuild"
+file = em041_32_l0.nup
+size = 299689
+
+[W10UPGRADE1]
+version = 1050 (20220322)
+versionid = 1050
+build = 1057
+type = w10upgrade
+category = engine
+level = 1
+base = 1032
+date = 22.03.2022
+platform = x86
+group = w10upgrade
+buildregname = "W10UpgradeBuild"
+file = em041_32_l1.nup
+size = 1457363
+
+[HORUS0]
+version = 7845 (20191219)
+versionid = 7845
+build = 15225
+type = horus
+category = engine
+level = 0
+base = 268435456
+date = 19.12.2019
+platform = x86
+group = horus
+buildregname = "HorusBuild"
+file = em021_32_l0.nup
+size = 1664468
+
+[HORUS1]
+version = 7955 (20230606)
+versionid = 7955
+build = 15353
+type = horus
+category = engine
+level = 1
+base = 15225
+date = 06.06.2023
+platform = x86
+group = horus
+buildregname = "HorusBuild"
+file = em021_32_l1.nup
+size = 432597
+
+[HORUS2]
+version = 7957 (20230803)
+versionid = 7957
+build = 15357
+type = horus
+category = engine
+level = 2
+base = 15353
+date = 03.08.2023
+platform = x86
+group = horus
+buildregname = "HorusBuild"
+file = em021_32_l2.nup
+size = 76892
+
+[HORUSDB0]
+version = 9225 (20230413)
+versionid = 9225
+build = 17440
+type = horusdb
+category = engine
+level = 0
+base = 268435456
+date = 13.04.2023
+platform = x86
+group = horus
+buildregname = "HorusdbBuild"
+file = em049_32_l0.nup
+size = 2762149
+
+[HORUSDB1]
+version = 9669 (20230816)
+versionid = 9669
+build = 18328
+type = horusdb
+category = engine
+level = 1
+base = 17440
+date = 16.08.2023
+platform = x86
+group = horus
+buildregname = "HorusdbBuild"
+file = em049_32_l1.nup
+size = 312782
+
+[HORUSDB2]
+version = 9682 (20230819)
+versionid = 9682
+build = 18354
+type = horusdb
+category = engine
+level = 2
+base = 18328
+date = 19.08.2023
+platform = x86
+group = horus
+buildregname = "HorusdbBuild"
+file = em049_32_l2.nup
+size = 20279
+
+[CLEANER0]
+version = 1240 (20230713)
+versionid = 1240
+build = 1389
+type = cleaner
+category = engine
+level = 0
+base = 268435456
+date = 13.07.2023
+platform = x86
+group = perseus,core
+buildregname = "CleanerBuild"
+file = em005_32_l0.nup
+size = 423709
+
+[CLEANER1]
+version = 1241 (20230726)
+versionid = 1241
+build = 1390
+type = cleaner
+category = engine
+level = 1
+base = 1389
+date = 26.07.2023
+platform = x86
+group = perseus,core
+buildregname = "CleanerBuild"
+file = em005_32_l1.nup
+size = 44068
+
+[CLEANERX0]
+version = 1016 (20210125)
+versionid = 1016
+build = 1016
+type = cleanerx
+category = engine
+level = 0
+base = 268435456
+date = 25.01.2021
+platform = x86
+group = unix_fw,perseus,core
+buildregname = "CleanerXBuild"
+file = em052_32_l0.nup
+size = 137229
+
+[CLEANERX1]
+version = 1017 (20210222)
+versionid = 1017
+build = 1017
+type = cleanerx
+category = engine
+level = 1
+base = 1016
+date = 22.02.2021
+platform = x86
+group = unix_fw,perseus,core
+buildregname = "CleanerXBuild"
+file = em052_32_l1.nup
+size = 23949
+
+[CLEANERX2]
+version = 1019 (20210518)
+versionid = 1019
+build = 1019
+type = cleanerx
+category = engine
+level = 2
+base = 1017
+date = 18.05.2021
+platform = x86
+group = unix_fw,perseus,core
+buildregname = "CleanerXBuild"
+file = em052_32_l2.nup
+size = 25031
+
+[LOADER0]
+version = 1082 (20230522)
+versionid = 1082
+build = 1150
+type = loader
+category = engine
+level = 0
+base = 268435456
+date = 22.05.2023
+platform = x86
+group = perseus,ra,core,loader,eslc
+buildregname = "LoaderBuild"
+file = em000_32_l0.nup
+size = 186199
+
+[LOADER640]
+version = 1082 (20230522)
+versionid = 1082
+build = 1150
+type = loader64
+category = engine
+level = 0
+base = 268435456
+date = 22.05.2023
+platform = x64
+group = perseus,ra,core,loader,eslc
+buildregname = "Loader64Build"
+file = em000_64_l0.nup
+size = 218633
+
+[PERSEUS0]
+version = 1595 (20230203)
+versionid = 1595
+build = 2338
+type = perseus
+category = engine
+level = 0
+base = 268435456
+date = 03.02.2023
+platform = x86
+group = perseus,ra,core,eslc
+buildregname = "PerseusBuild"
+file = em001_32_l0.nup
+size = 1364050
+
+[PERSEUS1]
+version = 1601 (20230725)
+versionid = 1601
+build = 2373
+type = perseus
+category = engine
+level = 1
+base = 2338
+date = 25.07.2023
+platform = x86
+group = perseus,ra,core,eslc
+buildregname = "PerseusBuild"
+file = em001_32_l1.nup
+size = 290194
+
+[PERSEUS2]
+version = 1601.2 (20230814)
+versionid = 1601
+build = 2376
+type = perseus
+category = engine
+level = 2
+base = 2373
+date = 14.08.2023
+platform = x86
+group = perseus,ra,core,eslc
+buildregname = "PerseusBuild"
+file = em001_32_l2.nup
+size = 23009
+
+[ENGINE0]
+version = 22897 (20210302)
+versionid = 22897
+build = 48650
+type = engine
+category = engine
+level = 0
+base = 268435456
+date = 02.03.2021
+platform = x86
+group = perseus,ra,core
+buildregname = "EngineBuild"
+file = em002_32_l0.nup
+size = 68441911
+
+[ENGINE1]
+version = 27284 (20230523)
+versionid = 27284
+build = 57610
+type = engine
+category = engine
+level = 1
+base = 48650
+date = 23.05.2023
+platform = x86
+group = perseus,ra,core
+buildregname = "EngineBuild"
+file = em002_32_l1.nup
+size = 18663081
+
+[ENGINE2]
+version = 27766 (20230819)
+versionid = 27766
+build = 58574
+type = engine
+category = engine
+level = 2
+base = 57610
+date = 19.08.2023
+platform = x86
+group = perseus,ra,core
+buildregname = "EngineBuild"
+file = em002_32_l2.nup
+size = 2772316
+
+[ARCHIVES0]
+version = 1341 (20230601)
+versionid = 1341
+build = 1547
+type = archives
+category = engine
+level = 0
+base = 268435456
+date = 01.06.2023
+platform = x86
+group = perseus,core
+buildregname = "ArchivesBuild"
+file = em003_32_l0.nup
+size = 1787526
+
+[ADVHEUR0]
+version = 1221 (20230328)
+versionid = 1221
+build = 1239
+type = advheur
+category = engine
+level = 0
+base = 268435456
+date = 28.03.2023
+platform = x86
+group = perseus,core
+buildregname = "AdvheurBuild"
+file = em004_32_l0.nup
+size = 2629006
+
+[ADVHEUR1]
+version = 1222 (20230329)
+versionid = 1222
+build = 1241
+type = advheur
+category = engine
+level = 1
+base = 1239
+date = 29.03.2023
+platform = x86
+group = perseus,core
+buildregname = "AdvheurBuild"
+file = em004_32_l1.nup
+size = 2969
+
+[ANTISTEALTH0]
+version = 1096 (20160401)
+versionid = 1096
+build = 1144
+type = antistealth
+category = engine
+level = 0
+base = 268435456
+date = 01.04.2016
+platform = x86
+group = perseus,win
+buildregname = "AntistealthBuild"
+file = em006_32_l0.nup
+size = 96343
+
+[ANTISTEALTH1]
+version = 1182 (20220817)
+versionid = 1182
+build = 1239
+type = antistealth
+category = engine
+level = 1
+base = 1144
+date = 17.08.2022
+platform = x86
+group = perseus,win
+buildregname = "AntistealthBuild"
+file = em006_32_l1.nup
+size = 87361
+
+[ANTISTEALTH2]
+version = 1185 (20230414)
+versionid = 1185
+build = 1242
+type = antistealth
+category = engine
+level = 2
+base = 1239
+date = 14.04.2023
+platform = x86
+group = perseus,win
+buildregname = "AntistealthBuild"
+file = em006_32_l2.nup
+size = 19534
+
+[ANTISTEALTH640]
+version = 1168 (20200908)
+versionid = 1168
+build = 1223
+type = antistealth64
+category = engine
+level = 0
+base = 268435456
+date = 08.09.2020
+platform = x64
+group = perseus,win
+buildregname = "Antistealth64Build"
+file = em006_64_l0.nup
+size = 114974
+
+[ANTISTEALTH641]
+version = 1185 (20230414)
+versionid = 1185
+build = 1242
+type = antistealth64
+category = engine
+level = 1
+base = 1223
+date = 14.04.2023
+platform = x64
+group = perseus,win
+buildregname = "Antistealth64Build"
+file = em006_64_l1.nup
+size = 71225
+
+[EPFW0]
+version = 1426 (20211119)
+versionid = 1426
+build = 1602
+type = epfw
+category = engine
+level = 0
+base = 268435456
+date = 19.11.2021
+platform = x86
+group = epfw,ra,netprot
+buildregname = "EpfwBuild"
+file = em008_32_l0.nup
+size = 680418
+
+[EPFW1]
+version = 1426.1 (20220114)
+versionid = 1426
+build = 1603
+type = epfw
+category = engine
+level = 1
+base = 1602
+date = 14.01.2022
+platform = x86
+group = epfw,ra,netprot
+buildregname = "EpfwBuild"
+file = em008_32_l1.nup
+size = 57278
+
+[EPFW640]
+version = 1426.1 (20220114)
+versionid = 1426
+build = 1603
+type = epfw64
+category = engine
+level = 0
+base = 268435456
+date = 14.01.2022
+platform = x64
+group = epfw,ra,netprot
+buildregname = "Epfw64Build"
+file = em008_64_l0.nup
+size = 835427
+
+[SYSTEMSTATUS0]
+version = 1259 (20160406)
+versionid = 1259
+build = 1294
+type = systemstatus
+category = engine
+level = 0
+base = 268435456
+date = 06.04.2016
+platform = x86
+group = systemstatus
+buildregname = "SystemstatusBuild"
+file = em009_32_l0.nup
+size = 1474713
+
+[SYSTEMSTATUS1]
+version = 1284 (20230207)
+versionid = 1284
+build = 1320
+type = systemstatus
+category = engine
+level = 1
+base = 1294
+date = 07.02.2023
+platform = x86
+group = systemstatus
+buildregname = "SystemstatusBuild"
+file = em009_32_l1.nup
+size = 712865
+
+[SYSTEMSTATUS640]
+version = 1277 (20200522)
+versionid = 1277
+build = 1312
+type = systemstatus64
+category = engine
+level = 0
+base = 268435456
+date = 22.05.2020
+platform = x64
+group = systemstatus
+buildregname = "Systemstatus64Build"
+file = em009_64_l0.nup
+size = 1903106
+
+[SYSTEMSTATUS641]
+version = 1284 (20230207)
+versionid = 1284
+build = 1320
+type = systemstatus64
+category = engine
+level = 1
+base = 1312
+date = 07.02.2023
+platform = x64
+group = systemstatus
+buildregname = "Systemstatus64Build"
+file = em009_64_l1.nup
+size = 840677
+
+[SMON0]
+version = 1021 (20120124)
+versionid = 1021
+build = 1028
+type = smon
+category = engine
+level = 0
+base = 268435456
+date = 24.01.2012
+platform = x86
+group = antispam
+buildregname = "SmonBuild"
+file = em010_32_l0.nup
+size = 210879
+
+[SMON1]
+version = 1024 (20130611)
+versionid = 1024
+build = 1031
+type = smon
+category = engine
+level = 1
+base = 1028
+date = 11.06.2013
+platform = x86
+group = antispam
+buildregname = "SmonBuild"
+file = em010_32_l1.nup
+size = 81342
+
+[SMON2]
+version = 1029 (20141103)
+versionid = 1029
+build = 1036
+type = smon
+category = engine
+level = 2
+base = 1031
+date = 03.11.2014
+platform = x86
+group = antispam
+buildregname = "SmonBuild"
+file = em010_32_l2.nup
+size = 38562
+
+[RA0]
+version = 1020 (20110119)
+versionid = 1020
+build = 1032
+type = ra
+category = engine
+level = 0
+base = 268435456
+date = 19.01.2011
+platform = x86
+group = ra
+buildregname = "RaBuild"
+file = em011_32_l0.nup
+size = 977697
+
+[RA1]
+version = 1021 (20110128)
+versionid = 1021
+build = 1033
+type = ra
+category = engine
+level = 1
+base = 1032
+date = 28.01.2011
+platform = x86
+group = ra
+buildregname = "RaBuild"
+file = em011_32_l1.nup
+size = 13603
+
+[RA2]
+version = 1022 (20110204)
+versionid = 1022
+build = 1034
+type = ra
+category = engine
+level = 2
+base = 1033
+date = 04.02.2011
+platform = x86
+group = ra
+buildregname = "RaBuild"
+file = em011_32_l2.nup
+size = 2798
+
+[SELFDEFENSE0]
+version = 1000 (20081024)
+versionid = 1000
+build = 1015
+type = selfdefense
+category = engine
+level = 0
+base = 268435456
+date = 24.10.2008
+platform = x86
+group = perseus
+buildregname = "SelfdefenseBuild"
+file = em013_32_l0.nup
+size = 27355
+
+[SELFDEFENSE1]
+version = 1017 (20100728)
+versionid = 1017
+build = 1034
+type = selfdefense
+category = engine
+level = 1
+base = 1015
+date = 28.07.2010
+platform = x86
+group = perseus
+buildregname = "SelfdefenseBuild"
+file = em013_32_l1.nup
+size = 39664
+
+[SELFDEFENSE2]
+version = 1018 (20100812)
+versionid = 1018
+build = 1037
+type = selfdefense
+category = engine
+level = 2
+base = 1034
+date = 12.08.2010
+platform = x86
+group = perseus
+buildregname = "SelfdefenseBuild"
+file = em013_32_l2.nup
+size = 12732
+
+[SELFDEFENSE640]
+version = 1000 (20081024)
+versionid = 1000
+build = 1015
+type = selfdefense64
+category = engine
+level = 0
+base = 268435456
+date = 24.10.2008
+platform = x64
+group = perseus
+buildregname = "Selfdefense64Build"
+file = em013_64_l0.nup
+size = 29883
+
+[SELFDEFENSE641]
+version = 1017 (20100728)
+versionid = 1017
+build = 1033
+type = selfdefense64
+category = engine
+level = 1
+base = 1015
+date = 28.07.2010
+platform = x64
+group = perseus
+buildregname = "Selfdefense64Build"
+file = em013_64_l1.nup
+size = 37702
+
+[SELFDEFENSE642]
+version = 1018 (20100812)
+versionid = 1018
+build = 1036
+type = selfdefense64
+category = engine
+level = 2
+base = 1033
+date = 12.08.2010
+platform = x64
+group = perseus
+buildregname = "Selfdefense64Build"
+file = em013_64_l2.nup
+size = 14382
+
+[MAILSERVER0]
+version = 1015 (20171031)
+versionid = 1015
+build = 1016
+type = mailserver
+category = engine
+level = 0
+base = 268435456
+date = 31.10.2017
+platform = x86
+group = mailserver
+buildregname = "MailserverBuild"
+file = em014_32_l0.nup
+size = 24089
+
+[MAILSERVER1]
+version = 1016 (20190213)
+versionid = 1016
+build = 1017
+type = mailserver
+category = engine
+level = 1
+base = 1016
+date = 13.02.2019
+platform = x86
+group = mailserver
+buildregname = "MailserverBuild"
+file = em014_32_l1.nup
+size = 10422
+
+[MAILSERVER2]
+version = 1017 (20190220)
+versionid = 1017
+build = 1018
+type = mailserver
+category = engine
+level = 2
+base = 1017
+date = 20.02.2019
+platform = x86
+group = mailserver
+buildregname = "MailserverBuild"
+file = em014_32_l2.nup
+size = 4066
+
+[AMON0]
+version = 1010 (20150806)
+versionid = 1010
+build = 1010
+type = amon
+category = engine
+level = 0
+base = 268435456
+date = 06.08.2015
+platform = x86
+group = amon,ra,win
+buildregname = "AmonBuild"
+file = em015_32_l0.nup
+size = 7130
+
+[AMON1]
+version = 1011 (20151112)
+versionid = 1011
+build = 1011
+type = amon
+category = engine
+level = 1
+base = 1010
+date = 12.11.2015
+platform = x86
+group = amon,ra,win
+buildregname = "AmonBuild"
+file = em015_32_l1.nup
+size = 8182
+
+[AMON2]
+version = 1014 (20160223)
+versionid = 1014
+build = 1014
+type = amon
+category = engine
+level = 2
+base = 1011
+date = 23.02.2016
+platform = x86
+group = amon,ra,win
+buildregname = "AmonBuild"
+file = em015_32_l2.nup
+size = 6253
+
+[AMON640]
+version = 1010 (20150806)
+versionid = 1010
+build = 1010
+type = amon64
+category = engine
+level = 0
+base = 268435456
+date = 06.08.2015
+platform = x64
+group = amon,ra,win
+buildregname = "Amon64Build"
+file = em015_64_l0.nup
+size = 8517
+
+[AMON641]
+version = 1011 (20151112)
+versionid = 1011
+build = 1011
+type = amon64
+category = engine
+level = 1
+base = 1010
+date = 12.11.2015
+platform = x64
+group = amon,ra,win
+buildregname = "Amon64Build"
+file = em015_64_l1.nup
+size = 10493
+
+[AMON642]
+version = 1014 (20160223)
+versionid = 1014
+build = 1014
+type = amon64
+category = engine
+level = 2
+base = 1011
+date = 23.02.2016
+platform = x64
+group = amon,ra,win
+buildregname = "Amon64Build"
+file = em015_64_l2.nup
+size = 7576
+
+[TRANSLATOR0]
+version = 1979 (20230727)
+versionid = 1979
+build = 2086
+type = translator
+category = engine
+level = 0
+base = 268435456
+date = 27.07.2023
+platform = x86
+group = translator,core,ra
+buildregname = "TranslatorBuild"
+file = em017_32_l0.nup
+size = 7799459
+
+[TRANSLATOR1]
+version = 1980 (20230803)
+versionid = 1980
+build = 2087
+type = translator
+category = engine
+level = 1
+base = 2086
+date = 03.08.2023
+platform = x86
+group = translator,core,ra
+buildregname = "TranslatorBuild"
+file = em017_32_l1.nup
+size = 499578
+
+[TRANSLATOR640]
+version = 1979 (20230727)
+versionid = 1979
+build = 2086
+type = translator64
+category = engine
+level = 0
+base = 268435456
+date = 27.07.2023
+platform = x64
+group = translator,core,ra
+buildregname = "Translator64Build"
+file = em017_64_l0.nup
+size = 7844697
+
+[TRANSLATOR641]
+version = 1980 (20230803)
+versionid = 1980
+build = 2087
+type = translator64
+category = engine
+level = 1
+base = 2086
+date = 03.08.2023
+platform = x64
+group = translator,core,ra
+buildregname = "Translator64Build"
+file = em017_64_l1.nup
+size = 500037
+
+[HIPS0]
+version = 1421 (20210909)
+versionid = 1421
+build = 1739
+type = hips
+category = engine
+level = 0
+base = 268435456
+date = 09.09.2021
+platform = x86
+group = hips
+buildregname = "HipsBuild"
+file = em018_32_l0.nup
+size = 481448
+
+[HIPS1]
+version = 1421.1 (20210910)
+versionid = 1421
+build = 1741
+type = hips
+category = engine
+level = 1
+base = 1739
+date = 10.09.2021
+platform = x86
+group = hips
+buildregname = "HipsBuild"
+file = em018_32_l1.nup
+size = 10319
+
+[HIPS2]
+version = 1436 (20220303)
+versionid = 1436
+build = 1780
+type = hips
+category = engine
+level = 2
+base = 1741
+date = 03.03.2022
+platform = x86
+group = hips
+buildregname = "HipsBuild"
+file = em018_32_l2.nup
+size = 46470
+
+[HIPS640]
+version = 1421 (20210909)
+versionid = 1421
+build = 1739
+type = hips64
+category = engine
+level = 0
+base = 268435456
+date = 09.09.2021
+platform = x64
+group = hips
+buildregname = "Hips64Build"
+file = em018_64_l0.nup
+size = 543712
+
+[HIPS641]
+version = 1436 (20220303)
+versionid = 1436
+build = 1780
+type = hips64
+category = engine
+level = 1
+base = 1739
+date = 03.03.2022
+platform = x64
+group = hips
+buildregname = "Hips64Build"
+file = em018_64_l1.nup
+size = 65868
+
+[PROTOSCAN0]
+version = 1396 (20200505)
+versionid = 1396
+build = 1563
+type = protoscan
+category = engine
+level = 0
+base = 268435456
+date = 05.05.2020
+platform = x86
+group = protoscan,netprot
+buildregname = "ProtoscanBuild"
+file = em019_32_l0.nup
+size = 678141
+
+[PROTOSCAN1]
+version = 1400.4 (20200818)
+versionid = 1400
+build = 1575
+type = protoscan
+category = engine
+level = 1
+base = 1563
+date = 18.08.2020
+platform = x86
+group = protoscan,netprot
+buildregname = "ProtoscanBuild"
+file = em019_32_l1.nup
+size = 54798
+
+[PARENTAL0]
+version = 1051 (20160412)
+versionid = 1051
+build = 1054
+type = parental
+category = engine
+level = 0
+base = 268435456
+date = 12.04.2016
+platform = x86
+group = parental
+buildregname = "ParentalBuild"
+file = em020_32_l0.nup
+size = 92336
+
+[PARENTAL1]
+version = 1086 (20230228)
+versionid = 1086
+build = 1091
+type = parental
+category = engine
+level = 1
+base = 1054
+date = 28.02.2023
+platform = x86
+group = parental
+buildregname = "ParentalBuild"
+file = em020_32_l1.nup
+size = 76464
+
+[DB0]
+version = 1121 (20230419)
+versionid = 1121
+build = 1130
+type = db
+category = engine
+level = 0
+base = 268435456
+date = 19.04.2023
+platform = x86
+group = db,core
+buildregname = "DbBuild"
+file = em022_32_l0.nup
+size = 378949
+
+[DB1]
+version = 1122 (20230505)
+versionid = 1122
+build = 1131
+type = db
+category = engine
+level = 1
+base = 1130
+date = 05.05.2023
+platform = x86
+group = db,core
+buildregname = "DbBuild"
+file = em022_32_l1.nup
+size = 14197
+
+[DB2]
+version = 1123 (20230711)
+versionid = 1123
+build = 1132
+type = db
+category = engine
+level = 2
+base = 1131
+date = 11.07.2023
+platform = x86
+group = db,core
+buildregname = "DbBuild"
+file = em022_32_l2.nup
+size = 45591
+
+[PEGASUS0]
+version = 22802 (20230816)
+versionid = 22802
+build = 33606
+type = pegasus
+category = engine
+level = 0
+base = 268435456
+date = 16.08.2023
+platform = x86
+group = perseus,core
+buildregname = "PegasusBuild"
+file = em023_32_l0.nup
+size = 60080934
+
+[PEGASUS1]
+version = 22817 (20230819)
+versionid = 22817
+build = 33636
+type = pegasus
+category = engine
+level = 1
+base = 33606
+date = 19.08.2023
+platform = x86
+group = perseus,core
+buildregname = "PegasusBuild"
+file = em023_32_l1.nup
+size = 1593123
+
+[PEGASUS2]
+version = 22818 (20230819)
+versionid = 22818
+build = 33638
+type = pegasus
+category = engine
+level = 2
+base = 33636
+date = 19.08.2023
+platform = x86
+group = perseus,core
+buildregname = "PegasusBuild"
+file = em023_32_l2.nup
+size = 91508
+
+[REVERSE_PEGASUS0]
+version = 22802 (20230816)
+versionid = 22802
+build = 33606
+type = pegasus
+category = engine
+base = 33638
+date = 16.08.2023
+platform = x86
+group = perseus,core
+buildregname = "PegasusBuild"
+file = em023_32_r0.nup
+size = 683502
+
+[IRIS0]
+version = 1131.5 (20230329)
+versionid = 1131
+build = 1148
+type = iris
+category = engine
+level = 0
+base = 268435456
+date = 29.03.2023
+platform = x86
+group = iris,parental,horus
+buildregname = "IrisBuild"
+file = em024_32_l0.nup
+size = 639846
+
+[IRIS1]
+version = 1132 (20230620)
+versionid = 1132
+build = 1150
+type = iris
+category = engine
+level = 1
+base = 1148
+date = 20.06.2023
+platform = x86
+group = iris,parental,horus
+buildregname = "IrisBuild"
+file = em024_32_l1.nup
+size = 62569
+
+[IRIS2]
+version = 1133 (20230626)
+versionid = 1133
+build = 1151
+type = iris
+category = engine
+level = 2
+base = 1150
+date = 26.06.2023
+platform = x86
+group = iris,parental,horus
+buildregname = "IrisBuild"
+file = em024_32_l2.nup
+size = 21148
+
+[EHM640]
+version = 1008 (20160523)
+versionid = 1008
+build = 1009
+type = ehm64
+category = engine
+level = 0
+base = 268435456
+date = 23.05.2016
+platform = x64
+group = perseus,win,epfw,hips,amon
+buildregname = "EhmBuild"
+file = em028_64_l0.nup
+size = 12578
+
+[ATON0]
+version = 1000 (20130415)
+versionid = 1000
+build = 1000
+type = aton
+category = engine
+level = 0
+base = 268435456
+date = 15.04.2013
+platform = x86
+group = unix_fw
+buildregname = "AtonBuild"
+file = em029_32_l0.nup
+size = 7237
+
+[ATON1]
+version = 1001 (20131204)
+versionid = 1001
+build = 1001
+type = aton
+category = engine
+level = 1
+base = 1000
+date = 04.12.2013
+platform = x86
+group = unix_fw
+buildregname = "AtonBuild"
+file = em029_32_l1.nup
+size = 3377
+
+[ATON2]
+version = 1007 (20150610)
+versionid = 1007
+build = 1007
+type = aton
+category = engine
+level = 2
+base = 1001
+date = 10.06.2015
+platform = x86
+group = unix_fw
+buildregname = "AtonBuild"
+file = em029_32_l2.nup
+size = 8388
+
+[SPECLEAN0]
+version = 1014 (20200129)
+versionid = 1014
+build = 1014
+type = speclean
+category = engine
+level = 0
+base = 268435456
+date = 29.01.2020
+platform = x86
+group = speclean
+buildregname = "SpecleanBuild"
+file = em031_32_l0.nup
+size = 1011064
+
+[SAURON0]
+version = 1032 (20220118)
+versionid = 1032
+build = 1037
+type = sauron
+category = engine
+level = 0
+base = 268435456
+date = 18.01.2022
+platform = x86
+group = perseus,win
+buildregname = "SauronBuild"
+file = em034_32_l0.nup
+size = 269345
+
+[SAURON1]
+version = 1033 (20220916)
+versionid = 1033
+build = 1038
+type = sauron
+category = engine
+level = 1
+base = 1037
+date = 16.09.2022
+platform = x86
+group = perseus,win
+buildregname = "SauronBuild"
+file = em034_32_l1.nup
+size = 163523
+
+[NETPROT0]
+version = 1692 (20220715)
+versionid = 1692
+build = 2316
+type = netprot
+category = engine
+level = 0
+base = 268435456
+date = 15.07.2022
+platform = x86
+group = epfw,protoscan,netprot
+buildregname = "NetprotBuild"
+file = em042_32_l0.nup
+size = 364043
+
+[NETPROT640]
+version = 1692 (20220715)
+versionid = 1692
+build = 2316
+type = netprot64
+category = engine
+level = 0
+base = 268435456
+date = 15.07.2022
+platform = x64
+group = epfw,protoscan,netprot
+buildregname = "Netprot64Build"
+file = em042_64_l0.nup
+size = 386833
+
+[SSL0]
+version = 1077 (20230516)
+versionid = 1077
+build = 1081
+type = ssl
+category = engine
+level = 0
+base = 268435456
+date = 16.05.2023
+platform = x86
+group = protoscan,ssl
+buildregname = "SslBuild"
+file = em045_32_l0.nup
+size = 1160876
+
+[SSL1]
+version = 1078 (20230518)
+versionid = 1078
+build = 1082
+type = ssl
+category = engine
+level = 1
+base = 1081
+date = 18.05.2023
+platform = x86
+group = protoscan,ssl
+buildregname = "SslBuild"
+file = em045_32_l1.nup
+size = 51846
+
