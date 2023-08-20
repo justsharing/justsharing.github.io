@@ -104,9 +104,9 @@ file = em049_32_l1.nup
 size = 312782
 
 [HORUSDB2]
-version = 9682 (20230819)
-versionid = 9682
-build = 18354
+version = 9684 (20230819)
+versionid = 9684
+build = 18358
 type = horusdb
 category = engine
 level = 2
@@ -116,7 +116,7 @@ platform = x86
 group = horus
 buildregname = "HorusdbBuild"
 file = em049_32_l2.nup
-size = 20279
+size = 20745
 
 [CLEANER0]
 version = 1240 (20230713)
@@ -299,9 +299,9 @@ file = em002_32_l1.nup
 size = 18663081
 
 [ENGINE2]
-version = 27766 (20230819)
-versionid = 27766
-build = 58574
+version = 27768 (20230819)
+versionid = 27768
+build = 58578
 type = engine
 category = engine
 level = 2
@@ -311,7 +311,7 @@ platform = x86
 group = perseus,ra,core
 buildregname = "EngineBuild"
 file = em002_32_l2.nup
-size = 2772316
+size = 2776232
 
 [ARCHIVES0]
 version = 1341 (20230601)
@@ -1109,9 +1109,9 @@ file = em023_32_l0.nup
 size = 60080934
 
 [PEGASUS1]
-version = 22817 (20230819)
-versionid = 22817
-build = 33636
+version = 22819 (20230819)
+versionid = 22819
+build = 33640
 type = pegasus
 category = engine
 level = 1
@@ -1121,22 +1121,22 @@ platform = x86
 group = perseus,core
 buildregname = "PegasusBuild"
 file = em023_32_l1.nup
-size = 1593123
+size = 1763516
 
 [PEGASUS2]
-version = 22818 (20230819)
-versionid = 22818
-build = 33638
+version = 22820 (20230819)
+versionid = 22820
+build = 33642
 type = pegasus
 category = engine
 level = 2
-base = 33636
+base = 33640
 date = 19.08.2023
 platform = x86
 group = perseus,core
 buildregname = "PegasusBuild"
 file = em023_32_l2.nup
-size = 91508
+size = 29473
 
 [REVERSE_PEGASUS0]
 version = 22802 (20230816)
@@ -1144,13 +1144,13 @@ versionid = 22802
 build = 33606
 type = pegasus
 category = engine
-base = 33638
+base = 33642
 date = 16.08.2023
 platform = x86
 group = perseus,core
 buildregname = "PegasusBuild"
 file = em023_32_r0.nup
-size = 683502
+size = 786669
 
 [IRIS0]
 version = 1131.5 (20230329)
