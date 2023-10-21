@@ -1,0 +1,6 @@
+! Title: Myanmar ADS block
+! Expires: 1 day (update frequency)
+! Homepage: https://itsolution.top/adsblock
+||channelmyanmar.org/*.mp4
+||channelmyanmar.org/*.gif
+channelmyanmar.org##.code-block
